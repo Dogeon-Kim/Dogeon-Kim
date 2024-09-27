@@ -43,7 +43,7 @@
     <img src="https://www.vectorlogo.zone/logos/ros/ros-icon.svg" alt="ROS2" width="40" height="40"/> 
   </a>
   <a href="https://www.autodesk.com/products/fusion-360/overview" target="_blank" rel="noreferrer"> 
-    <img src="https://seeklogo.com/images/F/fusion-360-logo-1E56407190-seeklogo.com.png" alt="Fusion 360" width="40" height="40"/> 
+    <img src="https://drive.google.com/file/d/1WdZ38VI_QZIYqv37thz5_urDq6kVKf0-/view?usp=drive_link" alt="Fusion 360" width="40" height="40"/> 
   </a>
   <a href="https://www.autodesk.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/autodesk/autodesk-icon.svg" alt="Autodesk" width="40" height="40"/>
