@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm KimDogeon</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=doeon-kim" alt="doeon-kim" /></a> </p>
+<h1 align="center">Hi 👋, I'm DogeonKim</h1>
 
 - 👨‍💻 All of my projects are available at [DogeonKim.github.io](DogeonKim.github.io)
 
