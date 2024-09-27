@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dogeon Kim</h1>
 
 ### Connect with Me:
-- 👨‍💻 Check out all my projects: [DogeonKim.github.io](https://DogeonKim.github.io)
+- 👨‍💻 Check out all my projects: [DogeonKim Notion]([https://DogeonKim.github.io](https://ruby-sociology-f01.notion.site/Portfolio-586034c369c143b5871078709a26d1b4?pvs=74))
 - 📫 Reach me at: **kdk5484@gmail.com**
 
 ### Languages and Tools:
