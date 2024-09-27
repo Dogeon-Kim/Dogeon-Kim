@@ -39,6 +39,13 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> 
   </a>
+  <a href="https://www.ros.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/ros/ros-icon.svg" alt="ROS2" width="40" height="40"/> 
+  </a>
+  <a href="https://www.autodesk.com/products/fusion-360/overview" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/autodesk_fusion360/autodesk_fusion360-icon.svg" alt="Fusion 360" width="40" height="40"/> 
+  </a>
+  <a href="https://www.siemens.com/global/en/products/automation/industrial/plc.html" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/siemens/siemens-icon.svg" alt="PLC" width="40" height="40"/> 
+  </a>
 </p>
-
-
