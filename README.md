@@ -51,4 +51,7 @@
   <a href="https://www.siemens.com/global/en/products/automation/industrial/plc.html" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/siemens/siemens-icon.svg" alt="PLC" width="40" height="40"/> 
   </a>
+  <a href="https://www.freecadweb.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Freecad-logo.svg" alt="FreeCAD" width="40" height="40"/> 
+  </a>
 </p>
